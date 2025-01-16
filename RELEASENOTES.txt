@@ -1,0 +1,2 @@
+Here be the text file of release notes.
+Very confused as to the difference between this and updates.
